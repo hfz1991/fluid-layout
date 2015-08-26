@@ -1,0 +1,50 @@
+.sign-up{
+	background: black;
+	height: 150px;
+	margin: 0 auto auto 0;
+}
+
+.padding{
+	padding: 0 100px 0 100px;
+	position: relative;
+    top: 30%;
+	text-align: center;
+}
+
+.sign-up h1{
+	color: white;
+}
+
+.input-form{
+	text-align: center;
+	display: inline;
+}
+
+.input-text{
+	width: 40%;
+    height: 25%;
+    margin-left: 20px;
+}
+
+.introduction{
+	color: white;
+	display: inline-block;
+	line-height: 0.6;
+    top: 10px;
+    position: relative;
+}
+
+button.btn.btn-default {
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.vertical-line{
+	margin-left: 20px;
+	display: inline-block;
+  	width: 1px; 
+ 	background-color: white; 
+ 	height: 30%; 
+ 	top: 20px;
+ 	position: relative;
+}
